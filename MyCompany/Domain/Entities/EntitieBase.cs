@@ -20,7 +20,7 @@ namespace MyCompany.Domain.Entities
         [Display(Name = "Титульная картинка")]
         public virtual string TitleImagePath { get; set; }
         [Display(Name = "SEO метатег Title")]
-        public virtual string Metatitle { get; set; }
+        public virtual string MetaTitle { get; set; }
         [Display(Name = "SEO метатег Description")]
         public virtual string MetaDescription { get; set; }
         [Display(Name = "SEO метатег Keywords")]

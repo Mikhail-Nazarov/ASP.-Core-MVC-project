@@ -12,8 +12,15 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc;
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
+#nullable restore
+#line 2 "C:\Users\123\source\repos\MyCompany\MyCompany\Views\_ViewImports.cshtml"
+using MyCompany.Models;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"8671e38130219cc96a8ae24e2d025218d8c717ed", @"/Views/Shared/_Layout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a9af4978b9c2bfca24ef48e96efe5f8573634464", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"1d4c013468b15594e4e5833b92e50c6d4cdc9ae0", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -42,7 +49,7 @@ namespace AspNetCore
         public async override global::System.Threading.Tasks.Task ExecuteAsync()
         {
             WriteLiteral("<!DOCTYPE HTML>\r\n<!--\r\n\tMinimaxing by HTML5 UP\r\n\thtml5up.net | \r\n\tFree for personal and commercial use under the CCA 3.0 license (html5up.net/license)\r\n-->\r\n<html>\r\n\t");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8671e38130219cc96a8ae24e2d025218d8c717ed3036", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8671e38130219cc96a8ae24e2d025218d8c717ed3213", async() => {
                 WriteLiteral("\r\n\t\t");
 #nullable restore
 #line 9 "C:\Users\123\source\repos\MyCompany\MyCompany\Views\Shared\_Layout.cshtml"
@@ -72,7 +79,7 @@ namespace AspNetCore
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n\t");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8671e38130219cc96a8ae24e2d025218d8c717ed4510", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8671e38130219cc96a8ae24e2d025218d8c717ed4687", async() => {
                 WriteLiteral("\r\n\t\t<div id=\"page-wrapper\">\r\n\r\n\t\t\t<!-- Header -->\r\n\t\t\t");
 #nullable restore
 #line 17 "C:\Users\123\source\repos\MyCompany\MyCompany\Views\Shared\_Layout.cshtml"

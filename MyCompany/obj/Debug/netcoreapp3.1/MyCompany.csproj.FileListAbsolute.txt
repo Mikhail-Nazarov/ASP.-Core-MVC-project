@@ -160,3 +160,10 @@ C:\Users\123\source\repos\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.
 C:\Users\123\source\repos\MyCompany\MyCompany\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\123\source\repos\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.csproj.CoreCompileInputs.cache
 C:\Users\123\source\repos\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\MyCompany.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\123\source\repos\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Controllers\Index.cshtml.g.cs
+C:\Users\123\source\repos\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\123\source\repos\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\123\source\repos\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\123\source\repos\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\123\source\repos\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs
+C:\Users\123\source\repos\MyCompany\MyCompany\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
