@@ -10,7 +10,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\ViewComponents\" />
     <Folder Include="wwwRoot\css\" />
     <Folder Include="wwwRoot\images\" />
     <Folder Include="wwwRoot\js\" />
